@@ -1,0 +1,6 @@
+googletrans==4.0.2
+edge-tts==7.2.3
+numpy==2.2.6
+miniaudio==1.61
+pyaudio==0.2.14
+faster-whisper==1.2.0
